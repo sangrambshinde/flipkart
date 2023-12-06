@@ -1,0 +1,9 @@
+SQL ACID PROPERTIES :
+A : Atomicity
+        Entire Transaction will Happen at once or doesn't happen at all.
+C : Consistency 
+        Database should be consistent before and after every transaction.
+I : Isolation
+        Each transaction is independent, no different transaction should interfare with each other.
+D : Durability
+        After a successfull transaction, database should be updated wheather the whole system failure occurs.
