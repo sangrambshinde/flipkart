@@ -1,0 +1,12 @@
+SQL is a structured query language
+It is accesible and manipulatipon data
+
+RDBMS- means relational database management system
+what  is rdbms?
+--> rdbms is a software used to store maintain manage and store the data in database in the form of table
+SQL ACIDE PROPERTIES:
+       -  Automicity:- it means either all or null
+                       entier transaction take place at ones does'nt happen at all
+       -consistency:- before transaction start and after transation complete data should be same
+       - isolation-:multiple transaction occours independantly without interfarance
+        -durability:- the changes of successfull transaction occurs even if system failuer occour.
